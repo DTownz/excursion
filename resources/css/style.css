@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -29,7 +30,7 @@ h1 {
 }
 
   footer {
-    color: white;
+    color: gray;
     text-align: right;
 }
 
@@ -38,5 +39,9 @@ h1 {
   }
 
   img.iphone {
+    text-align: center;
+  }
+
+  video {
     text-align: center;
   }
